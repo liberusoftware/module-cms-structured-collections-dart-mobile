@@ -1,0 +1,15 @@
+{
+  "repository": "module-cms-structured-collections-dart-mobile",
+  "capabilityKey": "liberusoftware/module-cms-structured-collections",
+  "presentation": "dart-mobile",
+  "package": "module_cms_structured_collections_dart_mobile",
+  "foundation": "module-boilerplate-dart-mobile",
+  "foundationCommit": "0656c212b36ef4f8ffd6fc74db4ac541268e7d31",
+  "canonicalPlan": "projects/cms/nextjs/structured-collections.md",
+  "presentationPlan": "projects/cms/features/structured-collections.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "cms"
+  ]
+}
